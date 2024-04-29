@@ -1,0 +1,20 @@
+Sun / 2023-06-25 / 15:28:11 WIB/ CommitQuery Gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'fa fa-money" aria-hidden="true"></i>",letak_menu="kiri",urutan_menu="1" WHERE...' at line 1 | QuerySyntax (Array
+(
+    [0] => UPDATE w_menu SET sub_level="1",nama_menu="GAJI / TUNJANGAN",url="?page=gaji",icon="<i class="fa fa-money" aria-hidden="true"></i>",letak_menu="kiri",urutan_menu="1" WHERE id_menu="61" 
+)
+)
+Sun / 2023-06-25 / 15:32:35 WIB/ CommitQuery Gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'kiri",urutan_menu="5" WHERE id_menu="59"' at line 1 | QuerySyntax (Array
+(
+    [0] => UPDATE w_menu SET sub_level="1",nama_menu="SPPD",url="?page=sppd",icon="fa-person-walking-luggage"",letak_menu="kiri",urutan_menu="5" WHERE id_menu="59" 
+)
+)
+Sun / 2023-10-08 / 20:40:34 WIB/ CommitQuery Gagal: SQLSTATE[HY000]: General error: 1364 Field 'id_parent' doesn't have a default value | QuerySyntax (Array
+(
+    [0] => INSERT INTO w_menu (icon,letak_menu,urutan_menu) VALUES ("fa fa-home","kiri","2")
+)
+)
+Sun / 2023-10-08 / 20:43:21 WIB/ CommitQuery Gagal: SQLSTATE[HY000]: General error: 1364 Field 'id_parent' doesn't have a default value | QuerySyntax (Array
+(
+    [0] => INSERT INTO w_menu (nama_menu,icon,letak_menu) VALUES ("SPPD","fa fa-plane","kiri")
+)
+)

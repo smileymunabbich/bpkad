@@ -1,0 +1,101 @@
+Wed / 2023-07-26 / 23:10:03 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mst_sppd' in 'field list' | QuerySyntax (SELECT SUM(mst_sppd) 
+                         AS dataSppd 
+                         FROM mst_sppd 
+                         WHERE create_by= '197908102010012023' 
+                         GROUP BY create_by)
+Wed / 2023-07-26 / 23:10:34 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mst_sppd' in 'field list' | QuerySyntax (SELECT SUM(mst_sppd) 
+                         AS dataSppd 
+                         FROM mst_sppd 
+                         WHERE create_by= '197908102010012023' 
+                         GROUP BY create_by)
+Wed / 2023-07-26 / 23:14:28 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mst_sppd' in 'field list' | QuerySyntax (SELECT SUM(mst_sppd) 
+                         AS dataSppd 
+                         FROM mst_sppd 
+                         WHERE create_by= '197908102010012023' 
+                         GROUP BY create_by)
+Wed / 2023-07-26 / 23:15:42 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mst_sppd' in 'field list' | QuerySyntax (SELECT SUM(mst_sppd) 
+                         AS dataSppd 
+                         FROM mst_sppd 
+                         WHERE create_by= '197908102010012023' 
+                         GROUP BY create_by)
+Wed / 2023-07-26 / 23:18:04 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'create_by' in 'where clause' | QuerySyntax (SELECT SUM(tpp_diterima) 
+                         AS dataTpp 
+                         FROM mst_tpp 
+                         WHERE create_by= '197908102010012023' 
+                         GROUP BY create_by)
+Sun / 2023-07-30 / 02:54:13 WIB/ Query Gagal: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(total_honor) AS totalHonor FROM mst_honor GROUP BY bulan' at line 1 | QuerySyntax (SELECT bulan, total_honor SUM (total_honor) AS totalHonor FROM mst_honor GROUP BY bulan)
+Sun / 2023-07-30 / 05:13:54 WIB/ Query Gagal: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'bulan' in group statement is ambiguous | QuerySyntax (SELECT 
+                     mst_honor.bulan, SUM(mst_honor.total_honor) AS totalHonor, 
+                     mst_tpp.bulan, SUM(mst_tpp.tpp_diterima)  AS totalTpp 
+                     FROM mst_honor, mst_tpp GROUP BY bulan)
+Sun / 2023-10-08 / 16:02:18 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:03:05 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:04:20 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:11:26 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:18:42 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:18:45 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:19:44 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:20:17 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:20:55 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:21:56 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:28:52 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:29:12 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:29:39 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:31:20 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:31:51 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:33:41 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 16:36:05 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 17:00:51 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 17:06:43 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_pegawai' doesn't exist | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 17:27:50 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jumlah_ditransfer' in 'field list' | QuerySyntax (SELECT SUM(jumlah_ditransfer) 
+                         AS dataGaji 
+                         FROM mst_pegawai)
+Sun / 2023-10-08 / 17:27:50 WIB/ Query Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sipandawa.mst_tpp' doesn't exist | QuerySyntax (SELECT SUM(tpp_diterima) 
+                         AS dataTpp 
+                         FROM mst_tpp)
+Sun / 2023-10-08 / 17:27:50 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'total_honor' in 'field list' | QuerySyntax (SELECT SUM(total_honor) 
+                         AS dataHonor 
+                         FROM mst_honor)
+Sun / 2023-10-08 / 17:27:50 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bulan' in 'field list' | QuerySyntax (SELECT bulan, SUM(total_honor) AS totalHonor
+                     FROM mst_honor GROUP BY bulan)
+Sun / 2023-10-08 / 17:27:50 WIB/ Query Gagal: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'total_lembur' in 'field list' | QuerySyntax (SELECT SUM(total_lembur) 
+                         AS dataLembur 
+                         FROM mst_lembur)

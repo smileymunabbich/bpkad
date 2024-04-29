@@ -1,0 +1,1390 @@
+Sat / 2023-05-27 / 04:17:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:17:46 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:17:49 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:17:49 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:23:51 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:23:51 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:23:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:23:53 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:25:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:25:20 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:25:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:25:23 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:26:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:26:50 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:26:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:26:53 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:26:57 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:26:57 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:28:54 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:28:54 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:29:03 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:29:03 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:29:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:29:05 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:29:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:29:53 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:31:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:31:13 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:33:00 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:33:00 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:33:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:33:04 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:34:21 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:34:21 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:35:24 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:35:24 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:35:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:35:25 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:40:07 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:40:07 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:40:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:40:34 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:44:47 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:44:47 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:44:47 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:44:47 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:44:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:44:48 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:44:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:44:50 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:46:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:46:46 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:46:51 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:46:51 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:55:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:55:37 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 04:55:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 04:55:46 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 13:58:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 13:58:06 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 13:59:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 13:59:53 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 13:59:54 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 13:59:54 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:00:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:00:11 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:00:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:00:13 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:00:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:00:22 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:00:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:00:23 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:01:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:01:23 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:08:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:08:29 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:14:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:14:15 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:16:44 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:16:44 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:18:27 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:18:27 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:23:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:23:37 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:25:31 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:25:31 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:54:12 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:54:12 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:54:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:54:18 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:54:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:54:22 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:55:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:55:06 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 14:58:47 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 14:58:47 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:01:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:01:37 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:05:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:05:09 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:05:40 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:05:40 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:06:35 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:06:35 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:11:28 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:11:28 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:12:10 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:12:10 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:12:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:12:29 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:12:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:12:32 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:13:47 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:13:47 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:14:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:14:16 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:14:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:14:17 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:14:31 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:14:31 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:14:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:14:32 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:14:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:14:55 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:15:03 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:15:03 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:15:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:15:06 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:16:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:16:05 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:16:52 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:16:52 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:16:54 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:16:54 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:20:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:20:06 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:20:14 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:20:14 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:20:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:20:48 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:20:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:20:55 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:20:56 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:20:56 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:22:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:22:22 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 15:22:24 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 15:22:24 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 18:35:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 18:35:22 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 18:35:27 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 18:35:27 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 18:46:03 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 18:46:03 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 20:45:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 20:45:48 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 20:51:14 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 20:51:14 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 20:51:19 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 20:51:19 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 20:51:19 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 20:51:19 WIB/ Koneksi Diputus 
+Wed / 2023-05-31 / 13:20:21 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-05-31 / 13:20:21 WIB/ Koneksi Diputus 
+Wed / 2023-05-31 / 13:24:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-05-31 / 13:24:17 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:00:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:00:23 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:00:28 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:00:28 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:00:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:00:30 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:00:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:00:34 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:00:35 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:00:36 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:00:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:00:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:00:38 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:00:38 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:01:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:01:11 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:01:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:01:17 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:01:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:01:20 WIB/ Koneksi Diputus 
+Fri / 2023-06-02 / 01:01:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-02 / 01:01:25 WIB/ Koneksi Diputus 
+Sun / 2023-06-04 / 17:07:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-04 / 17:07:23 WIB/ Koneksi Diputus 
+Sun / 2023-06-04 / 17:14:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-04 / 17:14:32 WIB/ Koneksi Diputus 
+Sun / 2023-06-04 / 20:53:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-04 / 20:53:06 WIB/ Koneksi Diputus 
+Mon / 2023-06-05 / 01:05:59 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-05 / 01:05:59 WIB/ Koneksi Diputus 
+Wed / 2023-06-07 / 22:18:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-07 / 22:18:55 WIB/ Koneksi Diputus 
+Wed / 2023-06-07 / 22:19:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-07 / 22:19:01 WIB/ Koneksi Diputus 
+Wed / 2023-06-07 / 22:19:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-07 / 22:19:04 WIB/ Koneksi Diputus 
+Wed / 2023-06-07 / 22:19:07 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-07 / 22:19:07 WIB/ Koneksi Diputus 
+Wed / 2023-06-07 / 22:19:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-07 / 22:19:08 WIB/ Koneksi Diputus 
+Wed / 2023-06-07 / 22:19:10 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-07 / 22:19:10 WIB/ Koneksi Diputus 
+Wed / 2023-06-07 / 22:19:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-07 / 22:19:11 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 00:41:39 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 00:41:39 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 00:47:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 00:47:20 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 00:47:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 00:47:50 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 00:50:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 00:50:42 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 00:55:24 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 00:55:24 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 00:55:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 00:55:29 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 01:08:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 01:08:17 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 01:08:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 01:08:42 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 01:09:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 01:09:22 WIB/ Koneksi Diputus 
+Thu / 2023-06-08 / 01:09:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Thu / 2023-06-08 / 01:09:46 WIB/ Koneksi Diputus 
+Fri / 2023-06-09 / 14:54:40 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-09 / 14:54:40 WIB/ Koneksi Diputus 
+Sat / 2023-06-10 / 22:25:56 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-06-10 / 22:25:56 WIB/ Koneksi Diputus 
+Sat / 2023-06-10 / 22:29:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-06-10 / 22:29:48 WIB/ Koneksi Diputus 
+Sat / 2023-06-10 / 22:29:57 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-06-10 / 22:29:57 WIB/ Koneksi Diputus 
+Sat / 2023-06-10 / 22:30:27 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-06-10 / 22:30:27 WIB/ Koneksi Diputus 
+Sat / 2023-06-10 / 22:30:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-06-10 / 22:30:29 WIB/ Koneksi Diputus 
+Sat / 2023-06-10 / 22:48:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-06-10 / 22:48:06 WIB/ Koneksi Diputus 
+Sat / 2023-06-10 / 23:35:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-06-10 / 23:35:29 WIB/ Koneksi Diputus 
+Sat / 2023-06-10 / 23:53:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-06-10 / 23:53:04 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 00:56:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 00:56:23 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 00:56:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 00:56:34 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 00:56:36 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 00:56:36 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 10:40:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 10:40:06 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 11:03:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 11:03:17 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 11:03:21 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 11:03:21 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 11:45:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 11:45:55 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 11:45:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 11:45:55 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 11:45:56 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 11:45:56 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 13:07:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 13:07:29 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 13:08:07 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 13:08:07 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 13:08:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 13:08:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 13:08:22 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 13:08:22 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 13:08:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 13:08:23 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 13:08:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 13:08:25 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:23:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:23:08 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:23:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:23:08 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:23:10 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:23:10 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:28:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:28:41 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:28:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:28:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:29:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:29:15 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:29:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:29:15 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:29:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:29:18 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 17:30:26 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 17:30:26 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:48:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:48:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:48:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:48:34 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:48:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:48:38 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:49:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:49:05 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:49:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:49:05 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:49:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:49:06 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:50:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:50:33 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:50:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:50:33 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:50:35 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:50:35 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:53:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:53:16 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:53:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:53:16 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 18:53:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 18:53:18 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:05:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:05:22 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:06:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:06:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:06:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:06:17 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:06:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:06:22 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:06:26 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:06:26 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:06:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:06:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:15:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:15:32 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:19:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:19:25 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:19:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:19:41 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:19:45 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:19:45 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:20:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:20:29 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:20:30 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:20:30 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:20:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:20:33 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:20:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:20:33 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:21:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:21:06 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:21:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:21:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:21:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:21:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:21:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:21:11 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:21:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:21:11 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:21:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:21:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:21:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:21:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:22:26 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:22:26 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:22:44 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:22:44 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:22:44 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:22:44 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:22:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:22:46 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:22:49 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:22:49 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:23:36 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:23:36 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:23:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:23:37 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:23:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:23:41 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:23:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:23:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:24:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:24:11 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:24:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:24:11 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:24:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:24:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:24:44 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:24:44 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:01 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:01 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:02 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:02 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:03 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:03 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:03 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:03 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:08 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:08 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:16 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:16 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:18 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:20 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:20 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:22 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:22 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:30 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:30 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:30 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:30 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:33 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:33 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:36 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:36 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:36 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:36 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:39 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:39 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:25:39 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:25:39 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:26:54 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:26:54 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:26:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:26:55 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:26:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:26:55 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:26:58 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:26:58 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:26:58 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:26:58 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:27:12 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:27:12 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:27:12 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:27:12 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:27:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:27:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:27:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:27:15 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:27:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:27:15 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:27:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:27:20 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:27:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:27:20 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:28:58 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:28:58 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:28:59 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:28:59 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:28:59 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:28:59 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:29:02 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:29:02 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:29:02 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:29:02 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:29:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:29:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:29:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:29:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:29:14 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:29:14 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:29:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:29:17 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:29:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:29:17 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:30:21 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:30:21 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:30:21 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:30:21 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:30:31 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:30:31 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:30:31 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:30:31 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:30:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:30:32 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:30:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:30:32 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:31:49 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:31:49 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:31:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:31:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:31:50 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:31:50 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:20 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:22 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:24 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:24 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:24 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:24 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:27 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:27 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:28 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:28 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:32 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:32 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:32:44 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:32:44 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:33:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:33:01 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:33:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:33:04 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:33:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:33:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:33:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:33:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:38:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:38:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:38:43 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:38:43 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:38:43 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:38:43 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:57:39 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:57:39 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:57:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:57:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:57:41 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:57:41 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:58:02 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:58:02 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:58:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:58:04 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:58:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:58:06 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:58:07 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:58:07 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:58:07 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:58:07 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 19:59:54 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 19:59:54 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 20:46:21 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 20:46:21 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 20:58:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 20:58:01 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 20:59:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 20:59:18 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 20:59:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 20:59:20 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 20:59:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 20:59:20 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:09:40 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:09:40 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:09:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:09:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:09:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:09:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:09:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:09:46 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:09:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:09:48 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:09:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:09:48 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:04 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:05 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:05 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:12 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:12 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:39 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:39 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:41 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:41 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:10:49 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:10:49 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:15:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:15:08 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:15:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:15:16 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:15:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:15:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:15:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:15:48 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:16:07 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:16:07 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:16:07 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:16:07 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:16:28 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:16:28 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:23:19 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:23:19 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:23:26 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:23:26 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:23:28 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:23:28 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:35:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:35:06 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:35:44 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:35:44 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:35:45 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:35:45 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:35:45 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:35:45 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:36:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:36:01 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:36:44 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:36:44 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:37:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:37:18 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:38:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:38:29 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:40:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:40:13 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:49:30 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:49:30 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:49:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:49:32 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 22:50:58 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 22:50:58 WIB/ Koneksi Diputus 
+Sun / 2023-06-11 / 23:12:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-11 / 23:12:06 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 06:51:57 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 06:51:57 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 12:39:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 12:39:29 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 13:00:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 13:00:01 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 13:26:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 13:26:29 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 14:35:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 14:35:34 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 14:35:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 14:35:38 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 14:36:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 14:36:05 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 15:48:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 15:48:06 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 15:50:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 15:50:25 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 20:01:26 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 20:01:26 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 20:01:58 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 20:01:58 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 20:02:00 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 20:02:00 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 20:02:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 20:02:01 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 20:02:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 20:02:05 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 20:02:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 20:02:53 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 20:06:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 20:06:42 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:14:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:14:20 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:15:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:15:01 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:15:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:15:32 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:15:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:15:33 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:16:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:16:16 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:16:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:16:17 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:23:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:23:04 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:23:40 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:23:40 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 21:24:58 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 21:24:58 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 23:18:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 23:18:08 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 23:19:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 23:19:55 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 23:20:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 23:20:17 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 23:20:19 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 23:20:19 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 23:23:31 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 23:23:31 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 23:26:03 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 23:26:03 WIB/ Koneksi Diputus 
+Mon / 2023-06-12 / 23:39:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-12 / 23:39:23 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 00:25:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 00:25:48 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:16:10 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:16:10 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:32:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:32:08 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:34:12 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:34:12 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:40:59 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:40:59 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:43:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:43:06 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:45:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:45:17 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:46:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:46:25 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:50:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:50:13 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:50:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:50:53 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 01:55:12 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 01:55:12 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:12:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:12:16 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:24:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:24:13 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:40:58 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:40:58 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:41:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:41:17 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:46:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:46:25 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:46:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:46:38 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:47:57 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:47:57 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:48:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:48:37 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:48:45 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:48:45 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:49:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:49:16 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:50:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:50:41 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:53:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:53:37 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:57:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:57:05 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 02:57:55 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 02:57:55 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:04:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:04:18 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:04:28 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:04:28 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:04:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:04:42 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:05:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:05:01 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:05:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:05:05 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:05:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:05:11 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:05:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:05:50 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:05:56 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:05:56 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:06:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:06:16 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 03:06:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 03:06:41 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 12:15:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 12:15:53 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 12:16:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 12:16:15 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 12:19:19 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 12:19:19 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 12:21:35 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 12:21:35 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 12:55:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 12:55:34 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:16:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:16:01 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:16:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:16:06 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:16:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:16:06 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:39:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:39:01 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:41:27 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:41:27 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:42:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:42:13 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:43:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:43:16 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:43:40 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:43:40 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:44:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:44:04 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:45:43 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:45:43 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:50:30 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:50:30 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 13:59:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 13:59:18 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:04:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:04:16 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:08:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:08:32 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:08:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:08:46 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:09:54 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:09:54 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:14:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:14:13 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:14:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:14:18 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:21:10 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:21:10 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:25:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:25:09 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:25:39 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:25:39 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:25:39 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:25:39 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:25:40 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:25:40 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:26:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:26:17 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:26:17 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:26:17 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:26:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:26:18 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:27:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:27:48 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:29:14 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:29:14 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:29:22 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:29:22 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:31:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:31:05 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:39:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:39:11 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:39:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:39:41 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:39:51 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:39:51 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:39:59 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:39:59 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:40:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:40:29 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:40:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:40:38 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:40:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:40:38 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:40:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:40:38 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:41:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:41:11 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:41:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:41:11 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:41:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:41:53 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:42:07 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:42:07 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:42:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:42:08 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:42:08 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:42:08 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:45:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:45:16 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:45:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:45:18 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:45:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:45:18 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:45:27 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:45:27 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:57:45 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:57:45 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:57:57 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:57:57 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:58:52 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:58:52 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:58:53 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:58:53 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 14:59:20 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 14:59:20 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 18:21:30 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 18:21:30 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 18:21:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 18:21:33 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 19:14:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 19:14:48 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 19:14:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 19:14:50 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 19:44:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 19:44:33 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 22:13:59 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 22:13:59 WIB/ Koneksi Diputus 
+Tue / 2023-06-13 / 22:14:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Tue / 2023-06-13 / 22:14:46 WIB/ Koneksi Diputus 
+Wed / 2023-06-14 / 00:15:35 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-14 / 00:15:35 WIB/ Koneksi Diputus 
+Wed / 2023-06-14 / 00:17:19 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-14 / 00:17:19 WIB/ Koneksi Diputus 
+Fri / 2023-06-16 / 15:10:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-16 / 15:10:34 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 14:41:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 14:41:25 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 14:42:45 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 14:42:45 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 14:45:28 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 14:45:28 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 16:42:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 16:42:37 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 16:43:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 16:43:34 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 16:43:42 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 16:43:42 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 17:39:21 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 17:39:21 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 17:55:47 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 17:55:47 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 18:18:06 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 18:18:06 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 18:18:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 18:18:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 18:18:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 18:18:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 18:41:39 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 18:41:39 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:19:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:19:05 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:20:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:20:48 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:21:05 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:21:05 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:21:37 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:21:37 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:22:01 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:22:01 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:22:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:22:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:22:32 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:22:32 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:23:31 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:23:31 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:26:11 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:26:11 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:26:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:26:15 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:26:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:26:16 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:29:02 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:29:02 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:29:21 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:29:21 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:29:24 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:29:24 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:34:02 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:34:02 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:34:58 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:34:58 WIB/ Koneksi Diputus 
+Sun / 2023-06-18 / 19:36:33 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-18 / 19:36:33 WIB/ Koneksi Diputus 
+Mon / 2023-06-19 / 13:20:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-19 / 13:20:50 WIB/ Koneksi Diputus 
+Mon / 2023-06-19 / 13:25:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-06-19 / 13:25:15 WIB/ Koneksi Diputus 
+Wed / 2023-06-21 / 14:08:27 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-21 / 14:08:27 WIB/ Koneksi Diputus 
+Wed / 2023-06-21 / 14:10:50 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-21 / 14:10:50 WIB/ Koneksi Diputus 
+Wed / 2023-06-21 / 14:11:13 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Wed / 2023-06-21 / 14:11:13 WIB/ Koneksi Diputus 
+Fri / 2023-06-23 / 20:08:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-23 / 20:08:38 WIB/ Koneksi Diputus 
+Fri / 2023-06-23 / 20:08:51 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Fri / 2023-06-23 / 20:08:51 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 10:51:12 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 10:51:12 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 13:11:23 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 13:11:23 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 13:11:27 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 13:11:27 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 13:13:04 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 13:13:04 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 13:14:43 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 13:14:43 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:00:26 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:00:26 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:05:09 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:05:09 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:20:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:20:38 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:20:45 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:20:45 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:20:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:20:46 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:20:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:20:46 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:22:30 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:22:30 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:23:10 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:23:10 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:23:12 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:23:12 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:23:47 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:23:47 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:23:48 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:23:48 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:55:10 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:55:10 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:56:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:56:34 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 14:56:36 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 14:56:36 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 15:12:18 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 15:12:18 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 15:13:38 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 15:13:38 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 15:39:29 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 15:39:29 WIB/ Koneksi Diputus 
+Sun / 2023-06-25 / 15:44:41 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-06-25 / 15:44:41 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 05:05:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 05:05:30 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 16:17:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 16:17:23 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 16:19:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 16:19:48 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 16:19:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 16:19:50 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 21:49:27 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 21:49:27 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 21:49:27 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 21:49:27 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 21:49:27 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 21:49:27 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 21:49:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 21:49:30 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 00:39:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 00:39:23 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 00:39:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 00:39:23 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 00:39:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 00:39:23 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 00:39:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 00:39:26 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 00:39:41 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 00:39:41 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 00:39:43 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 00:39:43 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:41:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:41:26 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:53:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:53:45 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:19:37 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:19:37 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:19:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:19:38 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:19:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:19:38 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:47:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:47:49 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:48:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:48:45 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 14:42:27 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 14:42:27 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 19:51:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 19:51:31 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:12:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:12:07 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:12:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:12:12 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:28:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:28:49 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:29:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:29:02 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:30:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:30:31 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:30:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:30:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:30:56 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:30:56 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:31:15 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:31:15 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:31:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:31:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:32:04 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:32:04 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:33:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:33:22 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:33:42 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:33:42 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:33:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:33:48 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 22:41:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 22:41:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 22:41:56 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 22:41:56 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 22:42:36 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 22:42:36 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 22:58:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 22:58:49 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 22:58:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 22:58:51 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 22:59:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 22:59:17 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 22:59:33 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 22:59:33 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:18:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:18:14 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:25:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:25:16 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:37:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:37:17 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:37:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:37:31 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:43:08 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:43:08 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:54:10 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:54:10 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:57:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:57:45 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:03:18 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:03:18 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:27:04 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:27:04 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:27:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:27:32 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:28:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:28:14 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:28:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:28:27 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:28:41 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:28:41 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:28:46 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:28:46 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:28:52 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:28:52 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:29:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:29:00 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:29:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:29:24 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:29:43 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:29:43 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:29:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:29:54 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:29:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:29:59 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:30:52 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:30:52 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:31:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:31:11 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:31:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:31:20 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:31:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:31:34 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:31:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:31:49 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:31:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:31:59 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:32:04 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:32:04 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:33:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:33:54 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:37:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:37:18 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:40:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:40:14 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:42:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:42:00 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:43:09 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:43:09 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:43:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:43:38 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 01:43:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 01:43:50 WIB/ Koneksi Diputus 
+Tue / 2023-07-18 / 23:34:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-18 / 23:34:12 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:42:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:42:44 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:42:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:42:49 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:44:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:44:05 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:44:58 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:44:58 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:45:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:45:08 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:45:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:45:14 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:45:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:45:16 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:45:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:45:17 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:45:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:45:30 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:47:39 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:47:39 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 18:07:56 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 18:07:56 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 18:07:57 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 18:07:57 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 18:08:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 18:08:02 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:02:18 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:02:18 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:02:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:02:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:02:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:02:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:03:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:03:49 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:05:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:05:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:05:41 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:05:41 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:06:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:06:02 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:06:09 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:06:09 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:06:18 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:06:19 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:06:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:06:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:07:15 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:07:15 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:07:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:07:45 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:51 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:51 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:51 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:58 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:58 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:58 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:58 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:09:58 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:09:58 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:10:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:10:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:10:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:10:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:10:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:10:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:10:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:10:30 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:10:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:10:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:10:30 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:10:30 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:28:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:28:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:28:30 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:28:30 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:28:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:28:30 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:17:37 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:17:37 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:17:37 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:17:37 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:17:37 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:17:37 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:10 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:10 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:10 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:10 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:11 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:13 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:13 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:13 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:13 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:13 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:13 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:38:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:38:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:38:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:38:14 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:39:19 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:39:19 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:39:57 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:39:57 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:40:28 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:40:28 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:40:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:40:45 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:42:43 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:42:43 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:43:18 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:43:18 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:43:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:43:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 03:11:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 03:11:25 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 04:12:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 04:12:21 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 16:00:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 16:00:49 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:16:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:16:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:16:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:16:17 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:16:17 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:16:17 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:16:37 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:16:37 WIB/ Koneksi Diputus 
+Tue / 2023-07-25 / 02:17:10 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-25 / 02:17:10 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-25 / 02:17:10 WIB/ Koneksi Diputus 
+Tue / 2023-07-25 / 02:17:10 WIB/ Koneksi Diputus 
+Tue / 2023-07-25 / 02:17:10 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-25 / 02:17:10 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:48:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:48:07 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 23:30:29 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 23:30:29 WIB/ Koneksi Diputus 
+Fri / 2023-07-28 / 00:22:58 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-28 / 00:22:58 WIB/ Koneksi Diputus 
+Fri / 2023-07-28 / 00:25:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-28 / 00:25:03 WIB/ Koneksi Diputus 
+Fri / 2023-07-28 / 02:24:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-28 / 02:24:03 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:02:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:02:51 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:45:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:45:14 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:45:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:45:38 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:45:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:45:38 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:45:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:45:38 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:01:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:01:16 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:28:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:28:31 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:28:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:28:31 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:28:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:28:31 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:28:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:28:34 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:28:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:28:34 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:28:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:28:34 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:29:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:29:34 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:29:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:29:34 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:29:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:29:34 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:30:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:30:05 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:30:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:30:05 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:30:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:30:05 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:27:36 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:27:36 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:44:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:44:07 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:16 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:16 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:16 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:40 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:40 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:40 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:40 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:42 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:42 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:58:40 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:58:40 WIB/ Koneksi Diputus 

@@ -1,0 +1,410 @@
+Tue / 2023-07-18 / 18:51:30 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 18:51:30' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 19:01:03 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 19:01:03' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 19:04:50 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 19:04:50' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 19:33:30 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 19:33:30' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 21:30:23 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 21:30:23' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 21:35:30 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 21:35:30' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 21:38:07 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 21:38:07' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 22:32:17 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 22:32:17' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 23:49:15 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 23:49:15' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 23:50:44 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 23:50:44' WHERE id_user='admin' 
+)
+)
+Tue / 2023-07-18 / 23:54:45 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-18 23:54:45' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 00:07:50 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 00:07:50' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 00:59:48 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 00:59:48' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:04:39 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:04:39' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:04:47 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:04:47' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:05:35 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:05:35' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:06:04 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:06:04' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:06:21 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:06:21' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:06:29 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:06:29' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:06:39 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:06:39' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:07:18 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:07:18' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:07:33 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:07:33' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:07:52 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:07:52' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:08:01 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:08:01' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:08:18 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:08:18' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:08:52 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:08:52' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:11:54 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:11:54' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 01:54:27 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 01:54:27' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 02:10:16 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 02:10:16' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 02:13:00 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 02:13:00' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 02:15:46 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 02:15:46' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 02:21:12 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 02:21:12' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 02:22:08 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 02:22:08' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 02:50:03 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 02:50:03' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 02:55:04 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 02:55:04' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 02:56:04 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 02:56:04' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 03:00:25 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 03:00:25' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 03:01:04 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 03:01:04' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 03:02:38 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 03:02:38' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 03:06:14 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 03:06:14' WHERE id_user='admin' 
+)
+)
+Wed / 2023-07-19 / 03:56:13 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-19 03:56:13' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 16:18:18 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 16:18:18' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 16:58:25 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 16:58:25' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:07:40 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:07:40' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:08:27 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:08:27' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:15:03 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:15:03' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:20:33 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:20:33' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:26:32 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:26:32' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:27:59 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:27:59' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:37:07 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:37:07' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:39:38 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:39:38' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 17:40:58 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 17:40:58' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 18:04:11 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 18:04:11' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 18:19:25 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 18:19:25' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 18:37:19 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 18:37:19' WHERE id_user='admin' 
+)
+)
+Thu / 2023-07-20 / 18:53:47 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-20 18:53:47' WHERE id_user='admin' 
+)
+)
+Fri / 2023-07-21 / 15:54:53 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 15:54:53' WHERE id_user='admin' 
+)
+)
+Fri / 2023-07-21 / 16:00:57 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 16:00:57' WHERE id_user='197908102010012023' 
+)
+)
+Fri / 2023-07-21 / 16:03:23 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 16:03:23' WHERE id_user='admin' 
+)
+)
+Fri / 2023-07-21 / 16:03:48 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 16:03:48' WHERE id_user='197908102010012023' 
+)
+)
+Fri / 2023-07-21 / 16:06:15 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 16:06:15' WHERE id_user='admin' 
+)
+)
+Fri / 2023-07-21 / 16:29:04 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 16:29:04' WHERE id_user='admin' 
+)
+)
+Fri / 2023-07-21 / 16:32:26 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 16:32:26' WHERE id_user='admin' 
+)
+)
+Fri / 2023-07-21 / 17:34:12 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 17:34:12' WHERE id_user='admin' 
+)
+)
+Fri / 2023-07-21 / 17:39:39 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 17:39:39' WHERE id_user='197908102010012023' 
+)
+)
+Fri / 2023-07-21 / 17:40:27 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 17:40:27' WHERE id_user='adminsipandawa' 
+)
+)
+Fri / 2023-07-21 / 17:42:08 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-21 17:42:08' WHERE id_user='admin' 
+)
+)
+Sun / 2023-07-23 / 22:14:47 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-07-23 22:14:47' WHERE id_user='admin' 
+)
+)
+Sun / 2023-10-08 / 15:54:10 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 15:54:10' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 15:54:28 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 15:54:28' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 15:59:33 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 15:59:33' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 16:00:28 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 16:00:28' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 16:01:19 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 16:01:19' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 16:11:21 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 16:11:21' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 16:20:14 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 16:20:14' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 16:29:36 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 16:29:36' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 16:31:47 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 16:31:47' WHERE id_user='adminsipandawa' 
+)
+)
+Sun / 2023-10-08 / 16:32:30 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 16:32:30' WHERE id_user='admin' 
+)
+)
+Sun / 2023-10-08 / 16:33:38 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 16:33:38' WHERE id_user='admin' 
+)
+)
+Sun / 2023-10-08 / 17:06:38 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 17:06:38' WHERE id_user='admin' 
+)
+)
+Sun / 2023-10-08 / 17:27:47 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 17:27:47' WHERE id_user='admin' 
+)
+)
+Sun / 2023-10-08 / 21:53:04 WIB/ CommitQuery Gagal: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_sistem.w_user' doesn't exist | QuerySyntax (Array
+(
+    [0] => UPDATE w_user SET last_login='2023-10-08 21:53:04' WHERE id_user='admin' 
+)
+)

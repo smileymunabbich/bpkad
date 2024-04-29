@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>Surat Keterangan Penghasilan Pegawai</title>
+	<link rel="stylesheet" href="style-gaji.css">
+</head>
+
+<body>
+	<div id="print-head">
+		<div class="informasi">
+			<input type="button" value="Cetak" onclick="window.print();">
+			<input type="button" value="Tutup" onclick="window.close();">
+		</div>
+	</div>
+	<div id="print-content">
+		<div class="invoice-box">
+			<tr class="top">
+				<td colspan="2">
+					<table width="73%" cellpadding="3" style="width: 100%;">
+						<tr style="height: 20px;">
+							<td width="18%" rowspan="2" style="width: 20%; text-align: center; height: 60px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<img src="./assets/kab-jombang.png" class="img" />
+								</span>
+							</td>
+							<td width="82%" rowspan="2" style="width: 80%; text-align: center; height: 64.3646px;">
+								<div>
+									<span>
+										<strong>PEMERINTAH KABUPATEN JOMBANG</strong>
+									</span>
+								</div>
+
+								<div>
+									<span>
+										<strong>BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH</strong>
+									</span>
+								</div>
+								<div>
+									Jl KH Wahid Hasyim No. 49 Jombang Jawa Timur Telp : (0321)861684 Fax : (0321) 851060
+								</div>
+							</td>
+						</tr>
+					</table>
+					<hr>
+				</td>
+			</tr>
+
+			<tr class="heading">
+				<div>
+					<span style="text-align: center">
+						<h4>SURAT KETERANGAN PENGHASILAN</h4>
+					</span>
+				</div>
+			</tr>
+
+			<tr class="paragraph">
+				<div>
+					<span style="font-family: arial, helvetica, sans-serif;">
+						Yang bertanda tangan di bawah ini :
+					</span>
+				</div>
+			</tr>
+
+			<tr class="kepala">
+				<table style="width: 95%;" align="right">
+					<tbody>
+						<tr style="height: 10px;">
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									Nama
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nama_pegawai ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 10px;">
+							<td style="width: 21%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									Jabatan
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nama_kepala ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 10px;">
+							<td style="width: 21%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									NIP
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nip_kepala ?>
+								</span>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</tr>
+
+			<tr class="item">
+				<div>
+					<span style="font-family: arial, helvetica, sans-serif;">
+						Dengan ini menerangkan bahwa pegawai tersebut :
+					</span>
+				</div>
+			</tr>
+
+			<tr class="item">
+				<table style="width: 95%;" align="right">
+					<tbody>
+						<tr style="height: 10px;">
+							<td style="width: 21%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									NIP
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nama_pegawai ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 10px;">
+							<td style="width: 21%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									Nama
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nama_kepala ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 10px;">
+							<td style="width: 21%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									Tanggal Lahir
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nip_kepala ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 10px;">
+							<td style="width: 21%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									Jabatan
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nip_kepala ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 10px;">
+							<td style="width: 21%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									Pangkat/Gol
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nip_kepala ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 10px;">
+							<td style="width: 21%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									Unit Kerja
+								</span>
+							</td>
+							<td style="height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									:
+								</span>
+							</td>
+							<td style="width: 27%; height: 1px;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									&nbsp;
+									<?= $nip_kepala ?>
+								</span>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</tr>
+
+			<tr class="item last">
+				<div>
+					<span style="font-family: arial, helvetica, sans-serif;">
+						Adapun penghasilan gaji bulan
+						<?= $nama_pegawai ?> sebagai berikut :
+					</span>
+				</div>
+			</tr>
+
+			<tr class="total">
+				<table style="width: 95%;" cellpadding="2" align="right">
+					<tbody>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Gaji Pokok</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">Potongan IWP</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunjangan Istri</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">Potongan Askes</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunjangan Anak</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">Potongan Pajak</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Tamb. Pengh</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									Pot. Taperum
+								</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Struktural</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">Potongan Bulog</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Fungsional</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">Pot. Sewa Rumah</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Umum</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">Pot. Hutang/Lain2</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Kemahalan</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">Potongan JKK</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Terpencil</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;">
+								<span style="font-family: arial, helvetica, sans-serif;">Potongan JKM</span>
+							</td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Beras</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Pajak</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. Askes</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;"><span
+									style="font-family: arial, helvetica, sans-serif">Jumlah Potongan</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. JKK</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+
+
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Tunj. JKM</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+
+						</tr>
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif">Pembulatan</span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+						</tr>
+
+						<tr style="height: 18px;">
+							<td width="10% text-align: left; height: 18px;"><span
+									style="font-family: arial, helvetica, sans-serif"><strong>Jumlah
+										Kotor</strong></span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<span style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</span>
+							</td>
+							<td style="width: 5%; height: 18px; text-align: left;"><span
+									style="font-family: arial, helvetica, sans-serif"><strong>Jumlah
+										Bersih</strong></span></td>
+							<td style="width: 1%;">
+								<span style="font-family: arial, helvetica, sans-serif;">:</span>
+							</td>
+							<td style="width: 10%;">
+								<p style="font-family: arial, helvetica, sans-serif;">
+									<?= str_replace(".00", "", number_format($nominal_honor, 2)) ?>
+								</p>
+							</td>
+						</tr>
+
+					</tbody>
+				</table>
+			</tr>
+
+			<div>
+				<span style="font-family: arial, helvetica, sans-serif;">
+					Demikian Surat Keterangan Penghasilan ini dibuat untuk dapat dipergunakan sebagaimana mestinya.
+				</span>
+			</div>
+			</tr>
+			</tr>
+
+			<div>
+				<table width="100%">
+					<tbody>
+						<tr>
+							<td width="5%">&nbsp;</td>
+							<td width="5%">&nbsp;</td>
+							<td width="5%">1 JULI 2023</td>
+						</tr>
+						<tr>
+							<td>BENDAHARA PENGELUARAN</td>
+							<td>&nbsp;</td>
+							<td>KEPALA BPKAD KABUPATEN JOMBANG</td>
+						</tr>
+						<tr>
+							<td></td>
+							<td></td>
+							<td height="75"></td>
+						</tr>
+						<tr>
+							<td>RIRIN ISMAWATI</td>
+							<td>&nbsp;</td>
+							<td>MUHAMMAD NASRULLOH, SE.M.SI</td>
+						</tr>
+						<tr>
+							<td>NIP: </td>
+							<td>&nbsp;</td>
+							<td>NIP: </td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			</tr>
+		</div>
+	</div>
+</body>
+
+</html>

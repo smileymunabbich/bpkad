@@ -1,0 +1,19 @@
+SELECT a.id_akunfb, a.nama_fb, a.create_by, p.nama_product, kp.kabupaten , COUNT(kp.kabupaten) as blast_success,
+(SELECT COUNT(mkp.kabupaten) FROM mst_kodepos mkp WHERE mkp.kabupaten = kp.kabupaten ) as total_kelurahan,
+(SELECT COUNT(mkp.kabupaten) FROM mst_kodepos mkp WHERE mkp.kabupaten = kp.kabupaten AND mkp.sts_kodepos = "N") as kelurahan_gagal
+
+FROM target_done td, target t, target_lokasi tl, target_product tp, 
+mst_akunfb a, mst_kodepos kp, mst_product p
+
+WHERE 
+td.id_target = t.id_target AND 
+td.id_target_lokasi = tl.id_target_lokasi AND 
+td.id_target_product = tp.id_target_product AND 
+
+t.id_akunfb = a.id_akunfb AND 
+tl.id_kodepos = kp.id_kodepos AND
+tp.id_product = p.id_product
+
+GROUP BY a.id_akunfb, p.id_product, kp.kabupaten
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ VIEW TARGET DONE

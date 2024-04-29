@@ -1,0 +1,175 @@
+Sun / 2021-03-21 / 00:46:44 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Sun / 2021-03-21 / 00:46:44 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Sun / 2021-03-21 / 00:46:44 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2021-03-21 / 00:46:44 WIB/ Koneksi Diputus 
+Sun / 2021-03-21 / 00:46:44 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2021-03-21 / 00:46:44 WIB/ Koneksi Diputus 
+Sun / 2021-03-21 / 18:19:16 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Sun / 2021-03-21 / 18:19:16 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Sun / 2021-03-21 / 18:19:16 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2021-03-21 / 18:19:16 WIB/ Koneksi Diputus 
+Sun / 2021-03-21 / 18:19:16 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2021-03-21 / 18:19:16 WIB/ Koneksi Diputus 
+Sun / 2021-03-21 / 18:33:05 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Sun / 2021-03-21 / 18:33:05 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2021-03-21 / 18:33:05 WIB/ Koneksi Diputus 
+Sun / 2021-03-21 / 18:33:05 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Sun / 2021-03-21 / 18:33:05 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2021-03-21 / 18:33:05 WIB/ Koneksi Diputus 
+Mon / 2021-03-22 / 11:13:10 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Mon / 2021-03-22 / 11:13:10 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Mon / 2021-03-22 / 11:13:10 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2021-03-22 / 11:13:10 WIB/ Koneksi Diputus 
+Mon / 2021-03-22 / 11:13:10 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2021-03-22 / 11:13:10 WIB/ Koneksi Diputus 
+Tue / 2021-03-23 / 01:50:21 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Tue / 2021-03-23 / 01:50:21 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Tue / 2021-03-23 / 01:50:21 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Tue / 2021-03-23 / 01:50:21 WIB/ Koneksi Diputus 
+Tue / 2021-03-23 / 01:50:21 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Tue / 2021-03-23 / 01:50:21 WIB/ Koneksi Diputus 
+Wed / 2021-03-31 / 21:19:43 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Wed / 2021-03-31 / 21:19:43 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Wed / 2021-03-31 / 21:19:43 WIB/ Koneksi Diputus 
+Wed / 2021-03-31 / 21:19:44 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Wed / 2021-03-31 / 21:19:44 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Wed / 2021-03-31 / 21:19:44 WIB/ Koneksi Diputus 
+Mon / 2021-09-27 / 21:46:16 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Mon / 2021-09-27 / 21:46:16 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2021-09-27 / 21:46:16 WIB/ Koneksi Diputus 
+Mon / 2021-09-27 / 21:46:16 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_cust_blast 
+Mon / 2021-09-27 / 21:46:16 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2021-09-27 / 21:46:16 WIB/ Koneksi Diputus 
+Mon / 2021-10-25 / 02:26:20 WIB/ Koneksi Berhasil: Use Database db_tokodhea 
+Mon / 2021-10-25 / 02:26:20 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2021-10-25 / 02:26:20 WIB/ Koneksi Diputus 
+Mon / 2021-10-25 / 02:26:21 WIB/ Koneksi Berhasil: Use Database db_tokodhea 
+Mon / 2021-10-25 / 02:26:21 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2021-10-25 / 02:26:21 WIB/ Koneksi Diputus 
+Thu / 2021-10-28 / 01:47:15 WIB/ Koneksi Berhasil: Use Database db_tokodhea 
+Thu / 2021-10-28 / 01:47:15 WIB/ Koneksi Berhasil: Use Database db_tokodhea 
+Thu / 2021-10-28 / 01:47:15 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Thu / 2021-10-28 / 01:47:15 WIB/ Koneksi Diputus 
+Thu / 2021-10-28 / 01:47:15 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Thu / 2021-10-28 / 01:47:15 WIB/ Koneksi Diputus 
+Thu / 2021-12-30 / 18:39:15 WIB/ Koneksi Berhasil: Use Database db_tokodhea 
+Thu / 2021-12-30 / 18:39:15 WIB/ Koneksi Berhasil: Use Database db_tokodhea 
+Thu / 2021-12-30 / 18:39:15 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Thu / 2021-12-30 / 18:39:15 WIB/ Koneksi Diputus 
+Thu / 2021-12-30 / 18:39:15 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Thu / 2021-12-30 / 18:39:15 WIB/ Koneksi Diputus 
+Mon / 2022-01-24 / 00:00:35 WIB/ Koneksi Berhasil: Use Database db_tokodhea 
+Mon / 2022-01-24 / 00:00:35 WIB/ Koneksi Berhasil: Use Database db_tokodhea 
+Mon / 2022-01-24 / 00:00:35 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2022-01-24 / 00:00:35 WIB/ Koneksi Diputus 
+Mon / 2022-01-24 / 00:00:35 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2022-01-24 / 00:00:35 WIB/ Koneksi Diputus 
+Tue / 2022-06-14 / 21:46:41 WIB/ Koneksi Berhasil: Use Database u1525256_db_blastdhea 
+Tue / 2022-06-14 / 21:46:41 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Tue / 2022-06-14 / 21:46:41 WIB/ Koneksi Diputus 
+Tue / 2022-06-14 / 21:46:41 WIB/ Koneksi Berhasil: Use Database u1525256_db_blastdhea 
+Tue / 2022-06-14 / 21:46:41 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Tue / 2022-06-14 / 21:46:41 WIB/ Koneksi Diputus 
+Wed / 2022-06-29 / 19:12:20 WIB/ Koneksi Berhasil: Use Database u1525256_db_blastdhea 
+Wed / 2022-06-29 / 19:12:20 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Wed / 2022-06-29 / 19:12:20 WIB/ Koneksi Diputus 
+Wed / 2022-06-29 / 19:12:20 WIB/ Koneksi Berhasil: Use Database u1525256_db_blastdhea 
+Wed / 2022-06-29 / 19:12:20 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Wed / 2022-06-29 / 19:12:20 WIB/ Koneksi Diputus 
+Sat / 2023-05-13 / 03:33:14 WIB/ Koneksi Berhasil: Use Database u1807162_db_blastdhea 
+Sat / 2023-05-13 / 03:33:14 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-05-13 / 03:33:14 WIB/ Koneksi Diputus 
+Sat / 2023-05-13 / 03:33:14 WIB/ Koneksi Berhasil: Use Database u1807162_db_blastdhea 
+Sat / 2023-05-13 / 03:33:14 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-05-13 / 03:33:14 WIB/ Koneksi Diputus 
+Sat / 2023-05-13 / 22:26:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_blastdhea 
+Sat / 2023-05-13 / 22:26:16 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-05-13 / 22:26:16 WIB/ Koneksi Diputus 
+Sat / 2023-05-13 / 22:26:16 WIB/ Koneksi Berhasil: Use Database u1807162_db_blastdhea 
+Sat / 2023-05-13 / 22:26:16 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-05-13 / 22:26:16 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 00:39:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_blastdhea 
+Sun / 2023-05-21 / 00:39:15 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-05-21 / 00:39:15 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 00:39:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_blastdhea 
+Sun / 2023-05-21 / 00:39:15 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-05-21 / 00:39:15 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 05:39:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-05-21 / 05:39:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-05-21 / 05:39:15 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-05-21 / 05:39:15 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 05:39:15 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-05-21 / 05:39:15 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 05:39:19 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-05-21 / 05:39:19 WIB/ Query Berhasil: SELECT * FROM w_user WHERE id_user='adminsipandawa'  
+Sun / 2023-05-21 / 05:39:19 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 05:39:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-05-21 / 05:39:25 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-05-21 / 05:39:25 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 05:39:25 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-05-21 / 05:39:25 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-05-21 / 05:39:25 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 05:39:57 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-05-21 / 05:39:57 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-05-21 / 05:39:57 WIB/ Koneksi Diputus 
+Sun / 2023-05-21 / 05:39:57 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sun / 2023-05-21 / 05:39:57 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-05-21 / 05:39:57 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 02:24:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 02:24:15 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-05-27 / 02:24:15 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 02:24:15 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 02:24:15 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-05-27 / 02:24:15 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 18:23:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 18:23:46 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Sat / 2023-05-27 / 18:23:46 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-05-27 / 18:23:46 WIB/ Koneksi Diputus 
+Sat / 2023-05-27 / 18:23:46 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-05-27 / 18:23:46 WIB/ Koneksi Diputus 
+Mon / 2023-05-29 / 16:07:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-05-29 / 16:07:34 WIB/ Query Berhasil: SELECT * FROM `view_user` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2023-05-29 / 16:07:34 WIB/ Koneksi Diputus 
+Mon / 2023-05-29 / 16:07:34 WIB/ Koneksi Berhasil: Use Database u1807162_db_sipandawa 
+Mon / 2023-05-29 / 16:07:34 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2023-05-29 / 16:07:34 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 05:03:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 05:03:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-07 / 05:03:44 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Fri / 2023-07-07 / 05:03:44 WIB/ Koneksi Diputus 
+Fri / 2023-07-07 / 05:03:44 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:30:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:30:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:30:32 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sat / 2023-07-08 / 01:30:32 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:30:32 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:17:04 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:17:04 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:17:04 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:17:04 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2023-07-10 / 23:17:04 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 20:23:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 20:23:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 20:23:14 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Fri / 2023-07-21 / 20:23:14 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 20:23:14 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:32:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:32:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:32:21 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Mon / 2023-07-24 / 21:32:21 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:32:21 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:34:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:34:48 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:34:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:34:48 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-10-08 / 16:34:48 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:36:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:36:00 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:36:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:36:00 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-10-08 / 16:36:00 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:47:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:47:30 WIB/ Query Berhasil: SELECT * FROM `w_level` WHERE id_level IN (2,3,4,6,7) ORDER BY id_level Asc 
+Sun / 2023-10-08 / 20:47:30 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:47:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:47:30 WIB/ Koneksi Diputus 

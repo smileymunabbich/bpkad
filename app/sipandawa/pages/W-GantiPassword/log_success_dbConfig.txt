@@ -1,0 +1,372 @@
+Wed / 2019-09-04 / 23:24:11 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:24:11 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="d98c49576006d9a279cc46e8e967965a" WHERE id_user="spgwd01@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:24:11 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:24:11 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:24:11 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:24:15 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:24:15 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="d98c49576006d9a279cc46e8e967965a" WHERE id_user="spgwd01@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:24:15 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:24:15 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:24:15 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:31:52 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:31:52 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="cb3e2745614558022a4aab01f48c0f19" WHERE id_user="spgwd01@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:31:52 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:31:52 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:31:52 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:31:53 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:31:53 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="cb3e2745614558022a4aab01f48c0f19" WHERE id_user="spgwd01@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:31:53 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:31:53 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:31:53 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:33:05 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:33:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="cb3e2745614558022a4aab01f48c0f19" WHERE id_user="spgwd01@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:33:05 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:33:05 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Wed / 2019-09-04 / 23:33:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='cb3e2745614558022a4aab01f48c0f19' WHERE id_user_sistem='spgwd01@gmail.com' 
+)
+ 
+Wed / 2019-09-04 / 23:33:05 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:36:23 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:36:23 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="7963e0eaad1b984094dc04290a4b0f01" WHERE id_user="spgwd02@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:36:23 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:36:23 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Wed / 2019-09-04 / 23:36:23 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='7963e0eaad1b984094dc04290a4b0f01' WHERE id_user_sistem='spgwd02@gmail.com' 
+)
+ 
+Wed / 2019-09-04 / 23:36:23 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:36:25 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:36:25 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="7963e0eaad1b984094dc04290a4b0f01" WHERE id_user="spgwd02@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:36:25 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:36:25 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Wed / 2019-09-04 / 23:36:25 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='7963e0eaad1b984094dc04290a4b0f01' WHERE id_user_sistem='spgwd02@gmail.com' 
+)
+ 
+Wed / 2019-09-04 / 23:36:25 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:38:26 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:38:26 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="7781891463600b7ba4b8e7449c8d909d" WHERE id_user="spgwd03@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:38:26 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:38:26 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Wed / 2019-09-04 / 23:38:26 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='7781891463600b7ba4b8e7449c8d909d' WHERE id_user_sistem='spgwd03@gmail.com' 
+)
+ 
+Wed / 2019-09-04 / 23:38:26 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:38:27 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Wed / 2019-09-04 / 23:38:27 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="7781891463600b7ba4b8e7449c8d909d" WHERE id_user="spgwd03@gmail.com" 
+)
+ 
+Wed / 2019-09-04 / 23:38:27 WIB/ Koneksi Diputus 
+Wed / 2019-09-04 / 23:38:27 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Wed / 2019-09-04 / 23:38:27 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='7781891463600b7ba4b8e7449c8d909d' WHERE id_user_sistem='spgwd03@gmail.com' 
+)
+ 
+Wed / 2019-09-04 / 23:38:27 WIB/ Koneksi Diputus 
+Thu / 2019-09-05 / 00:02:31 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Thu / 2019-09-05 / 00:02:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="cb3e2745614558022a4aab01f48c0f19" WHERE id_user="spgwd01@gmail.com" 
+)
+ 
+Thu / 2019-09-05 / 00:02:31 WIB/ Koneksi Diputus 
+Thu / 2019-09-05 / 00:02:31 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Thu / 2019-09-05 / 00:02:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='cb3e2745614558022a4aab01f48c0f19' WHERE id_user_sistem='spgwd01@gmail.com' 
+)
+ 
+Thu / 2019-09-05 / 00:02:31 WIB/ Koneksi Diputus 
+Thu / 2019-09-05 / 00:02:34 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Thu / 2019-09-05 / 00:02:34 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="cb3e2745614558022a4aab01f48c0f19" WHERE id_user="spgwd01@gmail.com" 
+)
+ 
+Thu / 2019-09-05 / 00:02:34 WIB/ Koneksi Diputus 
+Thu / 2019-09-05 / 00:02:34 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Thu / 2019-09-05 / 00:02:34 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='cb3e2745614558022a4aab01f48c0f19' WHERE id_user_sistem='spgwd01@gmail.com' 
+)
+ 
+Thu / 2019-09-05 / 00:02:34 WIB/ Koneksi Diputus 
+Thu / 2019-10-17 / 12:47:46 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Thu / 2019-10-17 / 12:47:46 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="1d989baeb15189b7278243be117e0e04" WHERE id_user="spvfl@gmail.com" 
+)
+ 
+Thu / 2019-10-17 / 12:47:46 WIB/ Koneksi Diputus 
+Thu / 2019-10-17 / 12:47:46 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Thu / 2019-10-17 / 12:47:46 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='1d989baeb15189b7278243be117e0e04' WHERE id_user_sistem='spvfl@gmail.com' 
+)
+ 
+Thu / 2019-10-17 / 12:47:46 WIB/ Koneksi Diputus 
+Mon / 2019-12-23 / 18:54:18 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Mon / 2019-12-23 / 18:54:18 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="2cf179700cb771c09df884ca18a14fe0" WHERE id_user="adminsba" 
+)
+ 
+Mon / 2019-12-23 / 18:54:18 WIB/ Koneksi Diputus 
+Mon / 2019-12-23 / 18:54:18 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Mon / 2019-12-23 / 18:54:18 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='2cf179700cb771c09df884ca18a14fe0' WHERE id_user_sistem='adminsba' 
+)
+ 
+Mon / 2019-12-23 / 18:54:18 WIB/ Koneksi Diputus 
+Mon / 2019-12-23 / 18:55:11 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Mon / 2019-12-23 / 18:55:11 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="2cf179700cb771c09df884ca18a14fe0" WHERE id_user="adminsba" 
+)
+ 
+Mon / 2019-12-23 / 18:55:11 WIB/ Koneksi Diputus 
+Mon / 2019-12-23 / 18:55:11 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Mon / 2019-12-23 / 18:55:11 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='2cf179700cb771c09df884ca18a14fe0' WHERE id_user_sistem='adminsba' 
+)
+ 
+Mon / 2019-12-23 / 18:55:11 WIB/ Koneksi Diputus 
+Mon / 2019-12-23 / 18:55:53 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_banyumili 
+Mon / 2019-12-23 / 18:55:53 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="2cf179700cb771c09df884ca18a14fe0" WHERE id_user="adminsba" 
+)
+ 
+Mon / 2019-12-23 / 18:55:53 WIB/ Koneksi Diputus 
+Mon / 2019-12-23 / 18:55:53 WIB/ Koneksi Berhasil: Use Database cvsw1455_db_sistem 
+Mon / 2019-12-23 / 18:55:53 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='2cf179700cb771c09df884ca18a14fe0' WHERE id_user_sistem='adminsba' 
+)
+ 
+Mon / 2019-12-23 / 18:55:53 WIB/ Koneksi Diputus 
+Thu / 2020-03-26 / 11:42:32 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Thu / 2020-03-26 / 11:42:32 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="0192023a7bbd73250516f069df18b500" WHERE id_user="adminsell" 
+)
+ 
+Thu / 2020-03-26 / 11:42:32 WIB/ Koneksi Diputus 
+Thu / 2020-03-26 / 11:42:32 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Thu / 2020-03-26 / 11:42:32 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='0192023a7bbd73250516f069df18b500' WHERE id_user_sistem='adminsell' 
+)
+ 
+Thu / 2020-03-26 / 11:42:32 WIB/ Koneksi Diputus 
+Thu / 2020-03-26 / 11:43:01 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Thu / 2020-03-26 / 11:43:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="273da149fcd2fbf48fac8a67a7d2e1d1" WHERE id_user="adminsell" 
+)
+ 
+Thu / 2020-03-26 / 11:43:01 WIB/ Koneksi Diputus 
+Thu / 2020-03-26 / 11:43:01 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Thu / 2020-03-26 / 11:43:01 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='273da149fcd2fbf48fac8a67a7d2e1d1' WHERE id_user_sistem='adminsell' 
+)
+ 
+Thu / 2020-03-26 / 11:43:01 WIB/ Koneksi Diputus 
+Sat / 2020-03-28 / 09:36:07 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Sat / 2020-03-28 / 09:36:08 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="8be50eed638210a2028c3631f8f95e8a" WHERE id_user="ayla@nasa.com" 
+)
+ 
+Sat / 2020-03-28 / 09:36:08 WIB/ Koneksi Diputus 
+Sat / 2020-03-28 / 09:36:08 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Sat / 2020-03-28 / 09:36:08 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='8be50eed638210a2028c3631f8f95e8a' WHERE id_user_sistem='ayla@nasa.com' 
+)
+ 
+Sat / 2020-03-28 / 09:36:08 WIB/ Koneksi Diputus 
+Sat / 2020-03-28 / 09:54:56 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Sat / 2020-03-28 / 09:54:56 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="8be50eed638210a2028c3631f8f95e8a" WHERE id_user="ayla@nasa.com" 
+)
+ 
+Sat / 2020-03-28 / 09:54:56 WIB/ Koneksi Diputus 
+Sat / 2020-03-28 / 09:54:56 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Sat / 2020-03-28 / 09:54:56 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='8be50eed638210a2028c3631f8f95e8a' WHERE id_user_sistem='ayla@nasa.com' 
+)
+ 
+Sat / 2020-03-28 / 09:54:56 WIB/ Koneksi Diputus 
+Mon / 2020-03-30 / 10:23:25 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Mon / 2020-03-30 / 10:23:25 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="f3ddeb926c5a919ef62001d86bade0c1" WHERE id_user="muslik@nasa.com" 
+)
+ 
+Mon / 2020-03-30 / 10:23:25 WIB/ Koneksi Diputus 
+Mon / 2020-03-30 / 10:23:26 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Mon / 2020-03-30 / 10:23:26 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='f3ddeb926c5a919ef62001d86bade0c1' WHERE id_user_sistem='muslik@nasa.com' 
+)
+ 
+Mon / 2020-03-30 / 10:23:26 WIB/ Koneksi Diputus 
+Mon / 2020-03-30 / 10:23:29 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Mon / 2020-03-30 / 10:23:29 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="f3ddeb926c5a919ef62001d86bade0c1" WHERE id_user="muslik@nasa.com" 
+)
+ 
+Mon / 2020-03-30 / 10:23:29 WIB/ Koneksi Diputus 
+Mon / 2020-03-30 / 10:23:29 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Mon / 2020-03-30 / 10:23:29 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='f3ddeb926c5a919ef62001d86bade0c1' WHERE id_user_sistem='muslik@nasa.com' 
+)
+ 
+Mon / 2020-03-30 / 10:23:29 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:21:31 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Sun / 2020-07-05 / 21:21:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="c1bcbb82d2167755e7fe7d42f5820861" WHERE id_user="fikri@nasa.com" 
+)
+ 
+Sun / 2020-07-05 / 21:21:31 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:21:31 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Sun / 2020-07-05 / 21:21:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='c1bcbb82d2167755e7fe7d42f5820861' WHERE id_user_sistem='fikri@nasa.com' 
+)
+ 
+Sun / 2020-07-05 / 21:21:31 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:21:31 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Sun / 2020-07-05 / 21:21:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="c1bcbb82d2167755e7fe7d42f5820861" WHERE id_user="fikri@nasa.com" 
+)
+ 
+Sun / 2020-07-05 / 21:21:31 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:21:31 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Sun / 2020-07-05 / 21:21:31 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='c1bcbb82d2167755e7fe7d42f5820861' WHERE id_user_sistem='fikri@nasa.com' 
+)
+ 
+Sun / 2020-07-05 / 21:21:31 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:21:49 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Sun / 2020-07-05 / 21:21:49 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="c1bcbb82d2167755e7fe7d42f5820861" WHERE id_user="fikri@nasa.com" 
+)
+ 
+Sun / 2020-07-05 / 21:21:49 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:21:49 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Sun / 2020-07-05 / 21:21:49 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='c1bcbb82d2167755e7fe7d42f5820861' WHERE id_user_sistem='fikri@nasa.com' 
+)
+ 
+Sun / 2020-07-05 / 21:21:49 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:25:03 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Sun / 2020-07-05 / 21:25:03 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="c1bcbb82d2167755e7fe7d42f5820861" WHERE id_user="fikri@nasa.com" 
+)
+ 
+Sun / 2020-07-05 / 21:25:03 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:25:03 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Sun / 2020-07-05 / 21:25:03 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='c1bcbb82d2167755e7fe7d42f5820861' WHERE id_user_sistem='fikri@nasa.com' 
+)
+ 
+Sun / 2020-07-05 / 21:25:03 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:27:40 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Sun / 2020-07-05 / 21:27:40 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="c1bcbb82d2167755e7fe7d42f5820861" WHERE id_user="fikri@nasa.com" 
+)
+ 
+Sun / 2020-07-05 / 21:27:40 WIB/ Koneksi Diputus 
+Sun / 2020-07-05 / 21:27:40 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Sun / 2020-07-05 / 21:27:40 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='c1bcbb82d2167755e7fe7d42f5820861' WHERE id_user_sistem='fikri@nasa.com' 
+)
+ 
+Sun / 2020-07-05 / 21:27:40 WIB/ Koneksi Diputus 
+Fri / 2020-07-24 / 15:37:02 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Fri / 2020-07-24 / 15:37:02 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="efdba418db424815020a1273f819f6f1" WHERE id_user="ayla@nasa.com" 
+)
+ 
+Fri / 2020-07-24 / 15:37:02 WIB/ Koneksi Diputus 
+Fri / 2020-07-24 / 15:37:02 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Fri / 2020-07-24 / 15:37:02 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='efdba418db424815020a1273f819f6f1' WHERE id_user_sistem='ayla@nasa.com' 
+)
+ 
+Fri / 2020-07-24 / 15:37:02 WIB/ Koneksi Diputus 
+Fri / 2020-07-24 / 15:37:03 WIB/ Koneksi Berhasil: Use Database u5023231_db_sba 
+Fri / 2020-07-24 / 15:37:03 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user SET password="efdba418db424815020a1273f819f6f1" WHERE id_user="ayla@nasa.com" 
+)
+ 
+Fri / 2020-07-24 / 15:37:03 WIB/ Koneksi Diputus 
+Fri / 2020-07-24 / 15:37:03 WIB/ Koneksi Berhasil: Use Database u5023231_db_system 
+Fri / 2020-07-24 / 15:37:03 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => UPDATE w_user_sistem SET password_sistem='efdba418db424815020a1273f819f6f1' WHERE id_user_sistem='ayla@nasa.com' 
+)
+ 
+Fri / 2020-07-24 / 15:37:03 WIB/ Koneksi Diputus 

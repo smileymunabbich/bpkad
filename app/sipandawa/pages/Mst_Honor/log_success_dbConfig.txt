@@ -1,0 +1,1102 @@
+Sat / 2023-07-08 / 01:52:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:52:44 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 01:52:44 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:52:46 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:52:46 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 01:52:46 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:52:46 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:52:46 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 01:52:46 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:53:47 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:53:47 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 01:53:47 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:53:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:53:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 01:53:50 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 01:53:50 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 01:53:50 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 01:53:50 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:00:33 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:00:33 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Sat / 2023-07-08 / 02:00:33 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:00:39 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:00:39 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Sat / 2023-07-08 / 02:00:39 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:00:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:00:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:00:59 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:01:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:01:00 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:01:00 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:01:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:01:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:01:00 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:02:46 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:02:46 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:02:46 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:02:47 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:02:47 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:02:47 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:02:47 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:02:47 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:02:47 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:03:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:03:17 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:03:17 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:03:18 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:03:18 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:03:18 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:03:18 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:03:18 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:03:18 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:04:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:04:23 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:04:23 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:04:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:04:25 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:04:25 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:04:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:04:25 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:04:25 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:05:00 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:02 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:05:02 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:02 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:05:02 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:11 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:05:11 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:12 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:05:12 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:12 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:05:12 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:05:20 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:21 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:05:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:21 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:21 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:05:21 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:53 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:53 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:05:53 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:54 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:05:54 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:05:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:05:54 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:05:54 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:06:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:06:21 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:06:21 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:06:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:06:22 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:06:22 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:06:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:06:22 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:06:22 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:07:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:07:16 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:07:16 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:07:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:07:17 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:07:17 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:07:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:07:17 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:07:17 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:07:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:07:25 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:07:25 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:07:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:07:26 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:07:26 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:07:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:07:26 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:07:26 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:08 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:08 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:08:08 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:09 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:09 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:08:09 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:09 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:09 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:08:09 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:19 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:19 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:08:19 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:21 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:08:21 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:21 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:08:21 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:44 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:08:44 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:08:45 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:08:45 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:08:45 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:08:45 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:09:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:09:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:09:00 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:09:01 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:09:01 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:09:01 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:09:01 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:09:01 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:09:01 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:09:10 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:09:10 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:09:10 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:09:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:09:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:09:11 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:09:11 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:09:11 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:09:11 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:13:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:13:23 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:13:23 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:13:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:13:24 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:13:24 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:13:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:13:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:13:24 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:17:27 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:17:27 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:17:27 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:17:29 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:17:29 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:17:29 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:19:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:19:21 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:19:21 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:19:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:19:34 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:19:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:19:34 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:19:34 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:19:34 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:21:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:21:02 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:21:02 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:21:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:21:06 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:21:06 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:21:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:21:06 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:21:06 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:21:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:21:50 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:21:50 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:22:36 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:22:36 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:22:36 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:23:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:23:21 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:23:21 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:23:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:23:22 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:23:22 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:23:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:23:22 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:23:22 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:27:13 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:27:13 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Sat / 2023-07-08 / 02:27:13 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:27:47 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:27:47 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Sat / 2023-07-08 / 02:27:47 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:33:18 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:33:18 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:33:18 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:33:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:33:20 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sat / 2023-07-08 / 02:33:20 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:33:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:33:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:33:20 WIB/ Koneksi Diputus 
+Sat / 2023-07-08 / 02:33:43 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sat / 2023-07-08 / 02:33:43 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sat / 2023-07-08 / 02:33:43 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:43:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:43:25 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-09 / 00:43:25 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:43:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:43:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:43:26 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-09 / 00:43:26 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:43:26 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-07-09 / 00:43:26 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:44:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:44:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-09 / 00:44:59 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:45:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:45:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:45:00 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-07-09 / 00:45:00 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:45:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-09 / 00:45:00 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:45:35 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:45:35 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-09 / 00:45:35 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:45:46 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:45:46 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-09 / 00:45:46 WIB/ Koneksi Diputus 
+Sun / 2023-07-09 / 00:45:56 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-09 / 00:45:56 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-09 / 00:45:56 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 19:48:57 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 19:48:57 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 19:48:57 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:12:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:12:14 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:12:14 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:28:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:28:45 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:28:45 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:28:46 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:28:46 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 21:28:46 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:28:46 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:28:46 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:28:46 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:28:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:28:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:28:59 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:30:30 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:30:30 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:30:30 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:35:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:35:55 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:35:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:36:01 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:36:01 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:36:01 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:36:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:36:49 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:36:49 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:37:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:37:03 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:37:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:37:08 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:37:08 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:37:08 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:37:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:37:38 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:37:38 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:38:08 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:38:08 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:38:08 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:38:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:38:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:38:20 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:38:33 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:38:33 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:38:33 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:38:43 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:38:43 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:38:43 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:38:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:38:50 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:38:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:39:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:39:11 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:39:11 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:40:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:40:03 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:40:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:40:08 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:40:08 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:40:08 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:40:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:40:21 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:40:21 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 21:40:33 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 21:40:33 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 21:40:33 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 22:41:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 22:41:48 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 22:41:48 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:02:19 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:02:19 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:02:19 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:06:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:06:16 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:06:16 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:06:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:06:17 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:06:17 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:06:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:06:17 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:06:17 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:09:57 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:09:57 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:09:57 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:09:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:09:59 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:09:59 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:09:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:09:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:09:59 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:10:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:10:55 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:10:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:10:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:10:55 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:10:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:10:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:10:55 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:10:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:10:56 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:10:56 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE id_honor='1'  
+Mon / 2023-07-10 / 23:10:56 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:10:56 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:10:56 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:10:56 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:11:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:11:07 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:11:07 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:11:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:11:07 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:11:07 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:13:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:13:54 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:13:54 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:13:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:13:55 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:13:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:13:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:13:55 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:13:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:14:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:14:00 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE id_honor='1'  
+Mon / 2023-07-10 / 23:14:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:14:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:14:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:14:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:14:36 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:14:36 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:14:36 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:14:36 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:14:36 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:14:36 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:17:43 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:17:43 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:17:43 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:17:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:17:44 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:17:44 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:17:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:17:44 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:17:44 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:26:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:26:50 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:26:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:30:41 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:30:41 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:30:41 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:30:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:30:51 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:30:51 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:31:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:31:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:31:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:32:01 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:32:01 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:32:01 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:32:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:32:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:32:20 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:32:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:32:48 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE sk_honor='12334545' AND create_by='196802021990031000'  
+Mon / 2023-07-10 / 23:32:48 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:32:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:32:48 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO mst_honor (sk_honor,jabatan_honor,nominal_honor,potongan_honor,total_honor,create_by,bulan,tahun) VALUES ("12334545","45dfgf","39023747","342342","38681405","196802021990031000","undefined","undefined")
+)
+ 
+Mon / 2023-07-10 / 23:32:48 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:32:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:32:49 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:32:49 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:32:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:32:50 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:32:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:32:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:32:50 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:32:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:33:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:33:55 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:33:55 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:11 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:34:11 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:23 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE sk_honor='fgdfg' AND create_by='196804212003122000'  
+Mon / 2023-07-10 / 23:34:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:23 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO mst_honor (sk_honor,jabatan_honor,tgl_honor,nominal_honor,potongan_honor,total_honor,create_by,bulan,tahun) VALUES ("fgdfg","dfgfd","04-07-2023","546456567","657657","545798910","196804212003122000","07","2023")
+)
+ 
+Mon / 2023-07-10 / 23:34:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:34:24 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:25 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:34:25 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:25 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:34:25 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:34 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-10 / 23:34:34 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:34 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:34 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:34:34 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:34:40 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:34:40 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:34:40 WIB/ Koneksi Diputus 
+Mon / 2023-07-10 / 23:36:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-10 / 23:36:14 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-10 / 23:36:14 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:05:15 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:05:15 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-11 / 00:05:15 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:05:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:05:17 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Tue / 2023-07-11 / 00:05:17 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:05:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:05:17 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-11 / 00:05:17 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:41:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:41:11 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-11 / 00:41:11 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:41:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:41:12 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Tue / 2023-07-11 / 00:41:12 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:41:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:41:12 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-11 / 00:41:12 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:41:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:41:17 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Tue / 2023-07-11 / 00:41:17 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:41:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:41:17 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-11 / 00:41:17 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:41:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:41:31 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-11 / 00:41:31 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:41:35 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:41:35 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Tue / 2023-07-11 / 00:41:35 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:41:35 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:41:35 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-11 / 00:41:35 WIB/ Koneksi Diputus 
+Tue / 2023-07-11 / 00:42:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-11 / 00:42:54 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-11 / 00:42:54 WIB/ Koneksi Diputus 
+Tue / 2023-07-18 / 23:34:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-18 / 23:34:14 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-18 / 23:34:14 WIB/ Koneksi Diputus 
+Tue / 2023-07-18 / 23:34:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-18 / 23:34:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-18 / 23:34:16 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Tue / 2023-07-18 / 23:34:16 WIB/ Koneksi Diputus 
+Tue / 2023-07-18 / 23:34:16 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-18 / 23:34:16 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:38:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:38:05 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Fri / 2023-07-21 / 17:38:05 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:38:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:38:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:38:06 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Fri / 2023-07-21 / 17:38:06 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:38:06 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Fri / 2023-07-21 / 17:38:06 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 17:42:42 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 17:42:42 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Fri / 2023-07-21 / 17:42:42 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 18:06:10 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 18:06:10 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Fri / 2023-07-21 / 18:06:10 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 18:07:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 18:07:51 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Fri / 2023-07-21 / 18:07:51 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 18:07:52 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 18:07:52 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Fri / 2023-07-21 / 18:07:52 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 18:07:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 18:07:55 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Fri / 2023-07-21 / 18:07:55 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 18:08:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 18:08:11 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Fri / 2023-07-21 / 18:08:11 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 21:20:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 21:20:05 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Fri / 2023-07-21 / 21:20:05 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 21:20:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 21:20:06 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Fri / 2023-07-21 / 21:20:06 WIB/ Koneksi Diputus 
+Fri / 2023-07-21 / 21:20:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Fri / 2023-07-21 / 21:20:06 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Fri / 2023-07-21 / 21:20:06 WIB/ Koneksi Diputus 
+Sun / 2023-07-23 / 22:22:47 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-23 / 22:22:47 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-23 / 22:22:47 WIB/ Koneksi Diputus 
+Sun / 2023-07-23 / 22:22:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-23 / 22:22:49 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-07-23 / 22:22:49 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-23 / 22:22:49 WIB/ Koneksi Diputus 
+Sun / 2023-07-23 / 22:22:49 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-23 / 22:22:49 WIB/ Koneksi Diputus 
+Sun / 2023-07-23 / 22:24:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-23 / 22:24:12 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-23 / 22:24:12 WIB/ Koneksi Diputus 
+Sun / 2023-07-23 / 22:50:33 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-23 / 22:50:33 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-23 / 22:50:33 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:33:01 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:33:01 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:33:01 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:33:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:33:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:33:02 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:33:02 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:33:02 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:33:02 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:33:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:33:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:33:20 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:33:27 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:33:27 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:33:27 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:33:27 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:33:27 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:33:27 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:36:19 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:36:19 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:36:19 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:36:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:36:20 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:36:20 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:36:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:36:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:36:20 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:37:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:37:12 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:37:12 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:37:12 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:37:12 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:37:12 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:37:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:37:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:37:59 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:42:37 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:42:37 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:42:37 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:49:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:49:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:49:59 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:51:46 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:51:46 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Mon / 2023-07-24 / 00:51:46 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:52:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:52:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Mon / 2023-07-24 / 00:52:20 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:52:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:52:45 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Mon / 2023-07-24 / 00:52:45 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:53:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:53:16 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Mon / 2023-07-24 / 00:53:16 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:53:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:53:21 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Mon / 2023-07-24 / 00:53:21 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:54:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:54:22 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:54:22 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:55:23 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:55:23 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:55:23 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:55:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:55:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:55:48 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:55:48 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:55:48 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:55:48 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:55:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:55:48 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:55:48 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:56:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:56:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:56:51 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:56:51 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:56:51 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:56:51 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:56:51 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:56:51 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:56:51 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:57:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:57:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:57:05 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:57:05 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:57:05 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:57:05 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:57:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:57:05 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:57:05 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:57:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:57:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:57:45 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:57:45 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:57:45 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:57:45 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:57:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:57:45 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:57:45 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:00 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:58:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:58:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:58:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:32 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:58:32 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:32 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:58:32 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:32 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:58:32 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:38 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:58:38 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:38 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:58:38 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:58:38 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:58:38 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:58:38 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:00 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:59:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:00 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:00 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:00 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:06 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:06 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:06 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:59:06 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:06 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:06 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:24 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:59:24 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:24 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:24 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:44 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:59:44 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:44 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:44 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:44 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:44 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:59 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 00:59:59 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:59 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 00:59:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 00:59:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 00:59:59 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:03 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 01:00:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:03 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 01:00:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:03 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 01:00:03 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:11 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 01:00:11 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:11 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 01:00:11 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:11 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:11 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 01:00:11 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:19 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:19 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE id_honor='1'  
+Mon / 2023-07-24 / 01:00:19 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:19 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:19 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 01:00:19 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:00:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:00:21 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 01:00:21 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:06:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:06:16 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 01:06:16 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:06:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:06:16 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 01:06:16 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 01:06:16 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 01:06:16 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 01:06:16 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:17:36 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:17:36 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:17:36 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Mon / 2023-07-24 / 02:17:36 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:17:36 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE create_by='197908102010012023'  
+Mon / 2023-07-24 / 02:17:36 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:17:36 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:17:36 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Mon / 2023-07-24 / 02:17:36 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:24 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE create_by='197908102010012023'  
+Mon / 2023-07-24 / 02:18:24 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Mon / 2023-07-24 / 02:18:24 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Mon / 2023-07-24 / 02:18:24 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:26 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE create_by='197908102010012023'  
+Mon / 2023-07-24 / 02:18:26 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:26 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Mon / 2023-07-24 / 02:18:26 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:26 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Mon / 2023-07-24 / 02:18:26 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:50 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 02:18:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:50 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 02:18:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:50 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:50 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 02:18:50 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:57 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:57 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 02:18:57 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:57 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:57 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 02:18:57 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 02:18:57 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 02:18:57 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 02:18:57 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:15:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:15:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:15:22 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:15:22 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 21:15:22 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:15:22 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 21:15:22 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 21:15:22 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:15:22 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:16:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:16:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:16:14 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 21:16:14 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:16:14 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Mon / 2023-07-24 / 21:16:14 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Mon / 2023-07-24 / 21:16:14 WIB/ Koneksi Diputus 
+Mon / 2023-07-24 / 21:16:14 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Mon / 2023-07-24 / 21:16:14 WIB/ Koneksi Diputus 
+Tue / 2023-07-25 / 00:07:41 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-25 / 00:07:41 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-25 / 00:07:41 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Tue / 2023-07-25 / 00:07:41 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Tue / 2023-07-25 / 00:07:41 WIB/ Koneksi Diputus 
+Tue / 2023-07-25 / 00:07:41 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-25 / 00:07:41 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Tue / 2023-07-25 / 00:07:41 WIB/ Koneksi Diputus 
+Tue / 2023-07-25 / 00:07:41 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 01:40:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 01:40:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 01:40:44 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 01:40:44 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Wed / 2023-07-26 / 01:40:44 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 01:40:44 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 01:40:44 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 01:40:44 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 01:40:44 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:57:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:57:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:57:45 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:57:46 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE create_by='197908102010012023'  
+Wed / 2023-07-26 / 21:57:46 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:57:46 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Wed / 2023-07-26 / 21:57:46 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Wed / 2023-07-26 / 21:57:46 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:57:46 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:58:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:58:17 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE sk_honor='23569238562396' AND create_by='197908102010012023'  
+Wed / 2023-07-26 / 21:58:17 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:58:17 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:58:17 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO mst_honor (sk_honor,jabatan_honor,tgl_honor,nominal_honor,potongan_honor,total_honor,create_by,bulan,tahun) VALUES ("23569238562396","kepala","27-07-2023","50000","10000","40000","197908102010012023","07","2023")
+)
+ 
+Wed / 2023-07-26 / 21:58:17 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:58:18 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:58:18 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Wed / 2023-07-26 / 21:58:18 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:58:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:58:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Wed / 2023-07-26 / 21:58:20 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:58:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:58:20 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE create_by='197908102010012023'  
+Wed / 2023-07-26 / 21:58:20 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:58:20 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:58:20 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Wed / 2023-07-26 / 21:58:20 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:59:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:59:02 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE sk_honor='947230023' AND create_by='197908102010012023'  
+Wed / 2023-07-26 / 21:59:02 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:59:02 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:59:03 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO mst_honor (sk_honor,jabatan_honor,tgl_honor,nominal_honor,potongan_honor,total_honor,create_by,bulan,tahun) VALUES ("947230023","kepala","25-07-2023","11000","1000","10000","197908102010012023","07","2023")
+)
+ 
+Wed / 2023-07-26 / 21:59:03 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:59:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:59:03 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Wed / 2023-07-26 / 21:59:03 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:59:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:59:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:59:05 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE create_by='197908102010012023'  
+Wed / 2023-07-26 / 21:59:05 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:59:05 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Wed / 2023-07-26 / 21:59:05 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 21:59:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 21:59:05 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '197908102010012023' GROUP BY nip 
+Wed / 2023-07-26 / 21:59:05 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:01:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:01:48 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 22:01:48 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:01:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:01:48 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Wed / 2023-07-26 / 22:01:48 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:01:48 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:01:48 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 22:01:48 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:02:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:02:21 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE sk_honor='97104712' AND create_by='196902011997031000'  
+Wed / 2023-07-26 / 22:02:21 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:02:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:02:21 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO mst_honor (sk_honor,jabatan_honor,tgl_honor,nominal_honor,potongan_honor,total_honor,create_by,bulan,tahun) VALUES ("97104712","bakul emas","12-07-2023","500000","100000","400000","196902011997031000","07","2023")
+)
+ 
+Wed / 2023-07-26 / 22:02:21 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:02:21 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:02:22 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 22:02:22 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:02:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:02:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 22:02:24 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:02:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:02:24 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Wed / 2023-07-26 / 22:02:24 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:02:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:02:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 22:02:24 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:03:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:03:05 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE sk_honor='0914704701' AND create_by='197304022008011000'  
+Wed / 2023-07-26 / 22:03:05 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:03:05 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:03:05 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO mst_honor (sk_honor,jabatan_honor,nominal_honor,potongan_honor,total_honor,create_by,bulan,tahun) VALUES ("0914704701","bakul usus","60000","10000","50000","197304022008011000","undefined","undefined")
+)
+ 
+Wed / 2023-07-26 / 22:03:05 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:03:06 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:03:06 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 22:03:06 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:03:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:03:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:03:07 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Wed / 2023-07-26 / 22:03:07 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:03:07 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 22:03:07 WIB/ Koneksi Diputus 
+Wed / 2023-07-26 / 22:03:07 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Wed / 2023-07-26 / 22:03:07 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Wed / 2023-07-26 / 22:03:07 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:47:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:47:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:47:24 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:47:24 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-07-30 / 00:47:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:47:24 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:47:24 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:47:24 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:47:24 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:50:28 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:50:28 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:50:28 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:50:28 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:50:28 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-07-30 / 00:50:28 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:50:28 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:50:28 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:50:28 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:26 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-07-30 / 00:54:26 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:26 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:54:26 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:26 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:54:26 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:55 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE sk_honor='123456' AND create_by='196804212003122000'  
+Sun / 2023-07-30 / 00:54:55 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:55 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:55 WIB/ CommitQuery Berhasil: Array
+(
+    [0] => INSERT INTO mst_honor (sk_honor,jabatan_honor,tgl_honor,nominal_honor,potongan_honor,total_honor,create_by,bulan,tahun) VALUES ("123456","kepala","31-07-2023","20000","1000","19000","196804212003122000","07","2023")
+)
+ 
+Sun / 2023-07-30 / 00:54:55 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:56 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:56 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:54:56 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:58 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:58 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:58 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:54:58 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:58 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-07-30 / 00:54:58 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 00:54:58 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 00:54:58 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 00:54:58 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 01:10:29 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 01:10:29 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 01:10:29 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 01:10:29 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 01:10:29 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-07-30 / 01:10:29 WIB/ Koneksi Diputus 
+Sun / 2023-07-30 / 01:10:29 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-07-30 / 01:10:29 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-07-30 / 01:10:29 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:45:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:45:25 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:45:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:45:25 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-10-08 / 16:45:25 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 16:45:25 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 16:45:25 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:20:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:20:54 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 17:20:54 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:20:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:20:54 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-10-08 / 17:20:54 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:20:54 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:20:54 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 17:20:54 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:27:29 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:27:29 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:27:29 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:27:29 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Sun / 2023-10-08 / 17:27:29 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:27:29 WIB/ Query Berhasil: SELECT * FROM mst_honor WHERE create_by=''  
+Sun / 2023-10-08 / 17:27:29 WIB/ Query Berhasil: SELECT * FROM mst_pegawai WHERE nip= '' GROUP BY nip 
+Sun / 2023-10-08 / 17:27:29 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:27:29 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:27:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:27:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 17:27:59 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:27:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:27:59 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 17:27:59 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-10-08 / 17:27:59 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 17:27:59 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 17:27:59 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:23:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:23:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:23:32 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-10-08 / 20:23:32 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:23:32 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:23:32 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 20:23:32 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:23:32 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 20:23:32 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:27:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:27:26 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:27:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:27:26 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-10-08 / 20:27:26 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:27:26 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:27:26 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:27:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:27:31 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:27:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:27:31 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-10-08 / 20:27:31 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:27:31 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:27:31 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:45:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:45:03 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 20:45:03 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:45:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:45:03 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 20:45:03 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-10-08 / 20:45:03 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 20:45:03 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 20:45:03 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:15 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:15 WIB/ Query Berhasil: SELECT * FROM mst_honor 
+Sun / 2023-10-08 / 21:53:15 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:15 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:15 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 21:53:15 WIB/ Koneksi Diputus 
+Sun / 2023-10-08 / 21:53:15 WIB/ Koneksi Berhasil: Use Database db_sipandawa 
+Sun / 2023-10-08 / 21:53:15 WIB/ Query Berhasil: SELECT * FROM mst_pegawai GROUP BY nip 
+Sun / 2023-10-08 / 21:53:15 WIB/ Koneksi Diputus 
